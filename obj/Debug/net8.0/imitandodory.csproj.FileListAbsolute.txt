@@ -1,0 +1,14 @@
+C:\Users\user\imitandodory\bin\Debug\net8.0\imitandodory.exe
+C:\Users\user\imitandodory\bin\Debug\net8.0\imitandodory.deps.json
+C:\Users\user\imitandodory\bin\Debug\net8.0\imitandodory.runtimeconfig.json
+C:\Users\user\imitandodory\bin\Debug\net8.0\imitandodory.dll
+C:\Users\user\imitandodory\bin\Debug\net8.0\imitandodory.pdb
+C:\Users\user\imitandodory\obj\Debug\net8.0\imitandodory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\imitandodory\obj\Debug\net8.0\imitandodory.AssemblyInfoInputs.cache
+C:\Users\user\imitandodory\obj\Debug\net8.0\imitandodory.AssemblyInfo.cs
+C:\Users\user\imitandodory\obj\Debug\net8.0\imitandodory.csproj.CoreCompileInputs.cache
+C:\Users\user\imitandodory\obj\Debug\net8.0\imitandodory.dll
+C:\Users\user\imitandodory\obj\Debug\net8.0\refint\imitandodory.dll
+C:\Users\user\imitandodory\obj\Debug\net8.0\imitandodory.pdb
+C:\Users\user\imitandodory\obj\Debug\net8.0\imitandodory.genruntimeconfig.cache
+C:\Users\user\imitandodory\obj\Debug\net8.0\ref\imitandodory.dll
